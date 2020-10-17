@@ -1,5 +1,4 @@
 from functions import *
-print(accounts)
 def checking():
     while True:
         login = input("Введите ваш никнейм/эл. адрес: ")
