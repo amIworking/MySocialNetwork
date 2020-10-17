@@ -1,4 +1,4 @@
-from fuctions import *
+from functions import *
 from authorization import checking
 from edit_account import edit
 #Приветствие

@@ -1,4 +1,4 @@
-from fuctions import *
+from functions import *
 def edit():
     print("Что из перечисленного вы хотите изменить?")
     while True:

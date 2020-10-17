@@ -1,4 +1,4 @@
-from fuctions import *
+from functions import *
 print(accounts)
 def checking():
     while True:
